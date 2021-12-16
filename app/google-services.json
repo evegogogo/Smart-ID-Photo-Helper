@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20624132638",
+    "project_id": "smart-id-photo-helper",
+    "storage_bucket": "smart-id-photo-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20624132638:android:48dbbac6bebf1c83b5bc0f",
+        "android_client_info": {
+          "package_name": "com.chris.smart_id_photo_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20624132638-q7gftcmjbnk4t545vuda26j11ihbkfl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxEbtf3mqkJHVr1VHgqgC_4g8wESgTMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20624132638-q7gftcmjbnk4t545vuda26j11ihbkfl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

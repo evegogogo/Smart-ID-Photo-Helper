@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/rice">
+
+
+    <ListView
+        android:id="@+id/album_list"
+        android:layout_width="match_parent"
+        android:layout_height="520dp" />
+
+    <Button
+        android:id="@+id/homeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center_vertical"
+        android:layout_marginVertical="40dp"
+        android:minHeight="48dp"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/green1"
+        android:text="@string/back_home_button_text" />
+
+
+</LinearLayout>
